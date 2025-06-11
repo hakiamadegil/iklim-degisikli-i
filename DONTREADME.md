@@ -18,5 +18,5 @@
 
 link bırakmak istediğinde
 
-[linkin ne ile ilgili oldugunu buraya yaz](youtube.com)
+[linkin ne ile ilgili oldugunu buraya yaz](https://youtube.com)
 dfkgldşlgkdfh
