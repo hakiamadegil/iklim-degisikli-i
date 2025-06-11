@@ -13,7 +13,7 @@
 2. ikinci eleman
 
 
-`print("hello")`
+`commit("changes")`
 
 
 link bırakmak istediğinde
